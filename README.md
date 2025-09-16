@@ -77,4 +77,4 @@ The application uses two core models for skin disease classification and symptom
 5. Create a new Pull Request
 
 ## License
-This project is licensed under the MIT License - see the [LICENCE](LICENCE) file for details
+This project is licensed under the MIT License - see the [LICENCE](LICENSE) file for details
